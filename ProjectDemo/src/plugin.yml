@@ -1,0 +1,4 @@
+name: TestPlugin
+author: jklakosz
+version: 0.1
+main: fr.jklakosz.testplugin.Main
